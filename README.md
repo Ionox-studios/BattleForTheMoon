@@ -1,2 +1,2 @@
 # BattleForTheMoon
-Game for Game Ja
+Game for Game Jam
